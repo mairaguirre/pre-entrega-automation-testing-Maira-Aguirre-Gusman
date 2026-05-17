@@ -52,32 +52,18 @@ pre-entrega-automation-testing/
 
 ## Instalación
 
-### 1. Clonar el repositorio
+### repositorio
 
-```bash
-git clone https://github.com/<tu-usuario>/pre-entrega-automation-testing-<nombre-apellido>.git
-cd pre-entrega-automation-testing-<nombre-apellido>
+```
+https://github.com/mairaguirre/pre-entrega-automation-testing-Maira-Aguirre-Gusman
+
 ```
 
-### 2. Crear y activar entorno virtual
-
-```bash
-python -m venv venv
-
-# macOS / Linux
-source venv/bin/activate
-
-# Windows
-venv\Scripts\activate
-```
-
-### 3. Instalar dependencias
+### Instalar dependencias
 
 ```bash
 pip install -r requirements.txt
 ```
-
-> El paquete `webdriver-manager` descarga automáticamente la versión correcta de ChromeDriver. No es necesario instalarlo manualmente.
 
 ---
 
