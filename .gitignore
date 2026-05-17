@@ -8,8 +8,7 @@ env/
 
 # Pytest
 .pytest_cache/
-reports/*.html
-reports/*.png
+
 
 # OS
 .DS_Store
